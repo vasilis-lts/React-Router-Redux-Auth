@@ -1,6 +1,6 @@
 # React-Router-Redux-Auth
 
-A boiler-plate that contains a simple setup of a client auth react-router and redux
+A boiler-plate that contains a simple setup of a client auth with react-router and redux
 
 Sass included!
 
